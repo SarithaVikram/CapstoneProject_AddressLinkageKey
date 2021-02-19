@@ -69,3 +69,39 @@ select{
   clear: both;
   display: table;
 }
+
+.footer {
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: whitesmoke;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.btn {
+    font-size: 12px;
+    border-radius: 8px;
+    background-color: #febc11;
+    font-weight: bold;
+}
+
+.btn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.btn_close {
+    font-size: 12px;
+    border-radius: 8px;
+    background-color: red;
+    font-weight: bold;
+}
+
+.btn_close:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
