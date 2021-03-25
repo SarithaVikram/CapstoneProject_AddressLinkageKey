@@ -83,16 +83,15 @@ select{
 .container {
     margin-top: 30px;
 }
-.button
-{
-    font-size: 12px;
-    color:white;
-}
+
 .btn {
     font-size: 12px;
     border-radius: 8px;
-    background-color: #febc11;
+   /* background-color: #febc11;*/
+    background-color: #6666ff;
     font-weight: bold;
+    font-color:#FFFFFF;
+ 
 }
 
 .btn:hover {
